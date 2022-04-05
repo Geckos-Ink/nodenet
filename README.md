@@ -1,2 +1,2 @@
 # nodenet
-A .NET binder for (the moment) internal practical purposes
+A nodejs binder in .net for (the moment) internal practical purposes
